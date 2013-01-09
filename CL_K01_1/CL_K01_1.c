@@ -8,7 +8,7 @@ void main(void)
 {
 	int width,sum;
 	width=5;
-	sum=width+width;
+	sum=width/width;
 	
 		printf("ˆê•Ó‚Ì’·‚³5‚Ì³•ûŒ`‚Ì–ÊÏ‚Í%d‚Å‚·B\n",sum);
 }
